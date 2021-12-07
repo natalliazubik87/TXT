@@ -1,0 +1,6 @@
+ 1)Name - Natallia
+ 2)Surname - Zubik
+ 3)Age - 34
+ 4)Pets - 2
+ 5)Names - Shustrik,Milka
+ 6)Salary - 2000
